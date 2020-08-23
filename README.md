@@ -38,7 +38,6 @@
   
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whwu1996&layout=compact" />
 </details>
-<br />
 <details>
   <summary>:zap: Github Stats</summary>
 
