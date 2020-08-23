@@ -41,7 +41,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img alt="WeiHan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=whwu1996&count_private=true&show_icons=true" />
+  <img alt="WeiHan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=whwu1996&inlucde_all_commits=true&show_icons=true" />
 
 </details>
 
