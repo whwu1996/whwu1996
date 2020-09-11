@@ -26,16 +26,13 @@
 <br />
 
 ---
-<details>
-  <summary>:zap: Most Used Languages</summary>
-  
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whwu1996&layout=compact" />
-</details>
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img alt="WeiHan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=whwu1996&inlucde_all_commits=true&show_icons=true" />
-
-</details>
-
-
+<table>
+ <tr>
+    <td><summary>:zap: Most Used Languages</summary></td>
+    <td><summary>:zap: Github Stats</summary></td>
+ </tr>
+ <tr>
+    <td><img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whwu1996&layout=compact" /></td>
+    <td><img alt="WeiHan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=whwu1996&inlucde_all_commits=true&show_icons=true" /></td>
+ </tr>
+</table>
