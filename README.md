@@ -3,7 +3,7 @@
 ## I'm a Front End Developer!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 <!---### Connect with me:-->
 
